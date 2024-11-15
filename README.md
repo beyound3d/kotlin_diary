@@ -14,5 +14,6 @@
 | **Flexibility**                | More flexible and less verbose due to dynamic features. | More rigid but offers more predictable and safer behavior. |
 | **Use Case Suitability**       | Great for quick scripts, flexibility in small to medium projects. | Best for larger, more complex projects where type safety and tooling support are critical. |
 
-Groovy DSL: More flexible, dynamic, and concise but less type-safe and harder to maintain at scale. Great for quick scripting but more error-prone.
-Kotlin DSL: More structured, statically typed, and offers better tooling and error detection. Ideal for larger, more complex projects where reliability and type safety are important.
+ Groovy DSL: More flexible, dynamic, and concise but less type-safe and harder to maintain at scale. Great for quick scripting but more error-prone.
+ 
+ Kotlin DSL: More structured, statically typed, and offers better tooling and error detection. Ideal for larger, more complex projects where reliability and type safety are important.
